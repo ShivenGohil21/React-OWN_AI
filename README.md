@@ -226,6 +226,9 @@ This application is a complete, professional-grade solution that:
 * Is well-structured and easy to maintain
 
 Image 
+<img width="1908" height="1062" alt="Screenshot 2025-09-26 154500" src="https://github.com/user-attachments/assets/007c4de6-0649-498f-91ce-794c1284f259" />
+
+
 
 
 
